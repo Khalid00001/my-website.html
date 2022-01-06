@@ -1,5 +1,5 @@
 body{font-family: 'Maven Pro', sans-serif;}
-.in{font-size: 30px;
+.in{font-size: 40px;
 width: 40%;
 margin-left: 5%;
 margin-right: 5%;
@@ -7,10 +7,14 @@ box-shadow: 10px 10px white;
 border-left: 5px solid rgb(204, 76, 76) ;}
 .color1{color: rgb(211, 95, 12);}
 .first{padding-left: 30px;}
-.out{padding-left: 60px;}
+.out{padding-left: 60px;
+padding-left: 20px;}
 .link{background-color: rgb(185, 69, 69);
 text-decoration: none;
 padding:10px 20px;
 border-radius: 5px;
 color: white;
 font-weight: 700;}
+section{display: flex;}
+section img{width: 50%;
+}
